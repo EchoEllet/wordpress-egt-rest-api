@@ -1,4 +1,5 @@
 # EgtRestApi
-A wordpress plugin that extends it rest api and add more routes for woocommerce and wordpress for users and not admin, plugin is not complete!
+A WordPress plugin that extends its rest API and adds more routes for Woocommerce and WordPress for users and not an admin
 
-I create that plugin back in the beginning of 2020 for some simple project, but I left it out since I give up on that project, and today I just found it my usb drive files so I decide to publish it to github
+> [!NOTE]
+> This project is incomplete and will not be, I found this project a while ago, it was started and ended in 2020, sharing the code first and then deleting it.
